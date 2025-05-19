@@ -1,5 +1,7 @@
 /*
+===========================
 Create Database and Schemas
+===========================
 Purpose:
     The script creates a database named 'DataWarehouse' after checking its existence. 
     If the database exists, it will be dropped and recreated. Additionaly, the script creates
