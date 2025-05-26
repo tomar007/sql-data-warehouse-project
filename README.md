@@ -5,4 +5,4 @@ Building a modern data warehouse with SQL server to consolidate sales data, enab
 
 1. **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
 2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
-3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
+3. **Data Modelling**: Developing fact and dimension tables optimized for analytical queries.
