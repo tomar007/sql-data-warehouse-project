@@ -1,6 +1,7 @@
 /*
+*******************************************
 Procedure Script: Silver Layer
-
+*******************************************
 Purpose:
 This script creates procedure to load data into the 'silver' schema/layer from bronze layer.
 It performs the following 2 actions :-
