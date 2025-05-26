@@ -3,7 +3,7 @@
 DDL Script : Gold Layer
 *******************************************
 Purpose:
-This script creates 3 views for the gold layer in the datawarehouse.
+This script creates 3 views for the 'gold' layer in the datawarehouse.
 It combines data from the silver layer and produce enriched business-ready data which can be further used for data analytics and reporting purposes.
 */
 
