@@ -1,8 +1,9 @@
 /*
+*******************************************
 Procedure Script: Bronze Layer
-
+*******************************************
 Purpose:
-This script creates procedure to load data into the 'bronze' schema/layer from external CSV files.
+This script creates procedure to load data into the 'bronze' layer from external CSV files.
 It performs the following 2 actions :-
 1) Truncates all the tables before loading the data.
 2) Uses 'Bulk Insert' approach to load data from the csv files.
