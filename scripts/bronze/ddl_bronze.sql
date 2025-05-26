@@ -1,8 +1,9 @@
 /*
+*******************************************
 DDL Script : Bronze Layer
-
+*******************************************
 Purpose:
-This script creates tables in the 'bronze' schema/layer after dropping any existing tables. 
+This script creates tables in the 'bronze' layer after dropping any existing tables. 
 */
 
 
