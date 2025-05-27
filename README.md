@@ -1,4 +1,3 @@
-# sql-data-warehouse-project
 ## Project Overview
 
 Building a modern data warehouse with SQL server to consolidate sales data, and provide business ready data to support analytical reporting and informed decision-making. This project involves:
